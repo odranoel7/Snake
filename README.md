@@ -1,1 +1,3 @@
-# Snake
+# snake
+
+Fazer o snake
